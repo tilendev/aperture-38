@@ -1,0 +1,404 @@
+@media (max-width: 1440px) {
+    .container {
+        width: 90%;
+    }
+}
+@media (max-width: 1200px) {
+
+}
+@media (max-width: 1024px) {
+    .container {
+        width: 90%;
+    }
+    #mack {
+        min-height: 100%;
+    }
+    .mack-img img {
+        width: 60%;
+    }
+    .mack button {
+        margin-bottom: 50px;
+    }
+    .mack p {
+        padding-right: 563px;
+    }
+    .all {
+        left: 55px;
+        bottom: 59px;
+    }
+    .pages-line {
+        width: 920px;
+    }
+    .need button {
+        margin: 0 387px;
+    }
+    .need-line {
+        left: 443px;
+        bottom: 162px;
+    }
+    .block-left {
+        flex-direction: column;
+    }
+    .block-right {
+        flex-direction: column;
+    }
+    .oll {
+        bottom: 130px;
+    }
+}
+@media (max-width: 992px) {
+    .container {
+        width: 90%;
+    }
+    #mack {
+        min-height: 100%;
+    }
+    .mack-img img {
+        width: 60%;
+    }
+    .mack button {
+        margin-bottom: 50px;
+    }
+    .mack p {
+        padding-right: 563px;
+    }
+    .all {
+        left: 55px;
+        bottom: 59px;
+    }
+    .pages-line {
+        width: 890px;
+    }
+    .need button {
+        margin: 0 387px;
+    }
+    .need-line {
+        left: 443px;
+        bottom: 162px;
+    }
+    .block-left {
+        flex-direction: column;
+    }
+    .block-right {
+        flex-direction: column;
+    }
+    .oll {
+        bottom: 130px;
+    }
+}
+@media (max-width: 768px) {
+    .container {
+        width: 90%;
+    }
+    .header-title a {
+        display: none;
+    }
+    .hero h2 {
+        font-size: 12px;
+    }
+    .hero h1 {
+        font-size: 45px;
+    }
+    .hero p {
+        font-size: 12px;
+    }
+    .blocks h1 {
+        font-size: 35px;
+    }
+    .blocks p {
+        font-size: 20px;
+    }
+    .block-img h1 {
+        font-size: 12px;
+    }
+    .block-img p {
+        font-size: 12px;
+    }
+    .block img {
+        width: 500px;
+    }
+    #mack {
+        min-height: 180vh;
+    }
+    .mack-img img {
+        width: 100%;
+        bottom: 0;
+        padding-top: 461px;
+    }
+    .mack button {
+        margin-bottom: 50px;
+    }
+    .mack p {
+        padding-right: 563px;
+    }
+    .past h1 {
+        font-size: 35px;
+    }
+    .past p {
+        font-size: 20px;
+    }
+    .past-title img {
+        width: 120px;
+    }
+    #star {
+        min-height: 80vh;
+    }
+    .need h1 {
+        font-size: 35px;
+    }
+    .need p {
+        font-size: 20px;
+    }
+    .all {
+        left: 55px;
+        bottom: 58px;
+    }
+    .pages-line {
+        width: 540px;
+    }
+    .need button {
+        margin: 0 274px;
+    }
+    .need-line {
+        left: 320px;
+        bottom: 52px;
+    }
+    #pages {
+        min-height: 60vh;
+    }
+    .pages-title {
+        display: none;
+    }
+    .block-left {
+        flex-direction: column;
+    }
+    .block-right {
+        flex-direction: column;
+    }
+    .oll {
+        bottom: 130px;
+    }
+}
+@media (max-width: 576px) {
+    .container {
+        width: 90%;
+    }
+    .header-title a {
+        display: none;
+    }
+    .hero h2 {
+        font-size: 12px;
+    }
+    .hero h1 {
+        font-size: 45px;
+    }
+    .hero p {
+        font-size: 12px;
+    }
+    .blocks h1 {
+        font-size: 35px;
+    }
+    .blocks p {
+        font-size: 20px;
+    }
+    .block-img h1 {
+        font-size: 12px;
+    }
+    .block-img p {
+        font-size: 12px;
+    }
+    .block img {
+        width: 411px;
+    }
+    #mack {
+        min-height: 130vh;
+    }
+    .mack-img img {
+        width: 100%;
+        bottom: 0;
+        padding-top: 317px;
+    }
+    .mack button {
+        margin-bottom: 50px;
+    }
+    .mack p {
+        display: none;
+    }
+    .past h1 {
+        font-size: 35px;
+    }
+    .past p {
+        font-size: 20px;
+    }
+    .past-title img {
+        width: 90px;
+    }
+    #star {
+        min-height: 80vh;
+    }
+    .need h1 {
+        font-size: 35px;
+    }
+    .need p {
+        font-size: 20px;
+    }
+    .all {
+        left: 37px;
+        bottom: 540px;
+    }
+    .pages-line {
+        width: 517px;
+    }
+    .need button {
+        margin: 0 274px;
+    }
+    .need-line {
+        left: 310px;
+        bottom: 59px;
+    }
+    #pages {
+        min-height: 60vh;
+    }
+    .pages-title {
+        display: none;
+    }
+    .block-left {
+        flex-direction: column;
+    }
+    .our-line {
+        width: 300px;
+        height: 40px;
+    }
+    .our-cub {
+        width: 53px;
+        height: 30px;
+    }
+    .block-right {
+        flex-direction: column;
+    }
+    .oll {
+        bottom: 130px;
+    }
+    .pages-icon {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+}
+@media (max-width: 451px) {
+    .container {
+        width: 90%;
+    }
+    .header-title a {
+        display: none;
+    }
+    .hero h2 {
+        font-size: 12px;
+    }
+    .hero h1 {
+        font-size: 45px;
+    }
+    .hero p {
+        font-size: 12px;
+    }
+    .blocks h1 {
+        font-size: 35px;
+    }
+    .blocks p {
+        font-size: 20px;
+    }
+    .block-img h1 {
+        font-size: 12px;
+    }
+    .block-img p {
+        font-size: 12px;
+    }
+    .block img {
+        width: 411px;
+    }
+    #mack {
+        min-height: 130vh;
+    }
+    .mack-img img {
+        width: 100%;
+        bottom: 0;
+        padding-top: 317px;
+    }
+    .mack button {
+        margin-bottom: 50px;
+    }
+    .mack p {
+        display: none;
+    }
+    .past h1 {
+        font-size: 35px;
+    }
+    .past p {
+        font-size: 20px;
+    }
+    .past-title img {
+        width: 90px;
+    }
+    #star {
+        min-height: 80vh;
+    }
+    .need h1 {
+        font-size: 35px;
+    }
+    .need p {
+        font-size: 20px;
+    }
+    .all {
+        left: 37px;
+        bottom: 540px;
+    }
+    .pages-line {
+        width: 40px;
+    }
+    .need button {
+        margin: 0 274px;
+    }
+    .need-line {
+        left: 310px;
+        bottom: 59px;
+    }
+    #pages {
+        min-height: 60vh;
+    }
+    .pages-title {
+        display: none;
+    }
+    .block-left {
+        flex-direction: column;
+    }
+    .our-line {
+        width: 300px;
+        height: 40px;
+    }
+    .our-cub {
+        width: 53px;
+        height: 30px;
+    }
+    .block-right {
+        flex-direction: column;
+    }
+    .oll {
+        bottom: 130px;
+    }
+    .pages-icon {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+}
+@media (max-width: 400px) {
+
+}
+@media (max-width: 376px) {
+
+}
+@media (max-width: 320px) {
+
+}
